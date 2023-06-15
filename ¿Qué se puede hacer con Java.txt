@@ -1,0 +1,4 @@
+Java se ha convertido en una herramienta esencial para desarrollar 
+aplicaciones de escritorio, aplicaciones móviles y aplicaciones web.
+Tambien puede crear aplicaciones que se ejecutan en un servidor y 
+proporcionan servicios y funcionalidades a los usuarios. 
